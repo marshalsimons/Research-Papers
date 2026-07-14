@@ -8,15 +8,15 @@ Collection of papers I have written during my time at Dakota State University.
 
 ---
 
-**Presentations***
+##**Presentations***
 
-A Survey of Device Independent Quantum Key Distribution Development
+###A Survey of Device Independent Quantum Key Distribution Development
 
 https://youtu.be/wH3ZrLkc7Tk?si=8BGnfs6Yq96PEa3
 
 
 
-Home IoT Exploitation Research
+###Home IoT Exploitation Research
 
 https://youtu.be/1bftCx5E_0Q?si=cARE0j6cVSW6p6zv
 
