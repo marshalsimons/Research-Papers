@@ -20,22 +20,16 @@ https://youtu.be/1bftCx5E_0Q?si=cARE0j6cVSW6p6zv
 
 ## **Fun videos from undergrad**
 
-**Sierpiński's Triangle**
-
-Project using recursion
+**Sierpiński's Triangle**: Project using recursion
 
 https://youtu.be/YYFQrzUodvM?si=YCwdyJ4YIYH-Kg3I
 
 
-**Bubble Sort Visual**
-
-Project creating a visual animation for a bubble sort
+**Bubble Sort Visual**: Project creating a visual animation for a bubble sort
 
 https://youtu.be/8Bs6duLrJI0?si=t7mY-H5TqmLOZ7d3
 
 
-**Tik-Tac-Toe**
-
-Project creating an animation from the movie WarGames
+**Tik-Tac-Toe**: Project creating an animation from the movie WarGames
 
 https://youtu.be/cCgfAPiWL9c?si=rQXCOWawxa-h2cYy
