@@ -1,4 +1,4 @@
-# Collection of papers I have written during my time at Dakota State University.
+# Collection of papers and presentations from my time at Dakota State University.
 
 
 **Favorite Papers** is a collection of papers I either thoroughly enjoyed writing or felt I did exceptionally well on. 
